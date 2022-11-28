@@ -1,4 +1,4 @@
-# The Learning Resources App
+# Image Search Engine
 
 ## Description
 the project is a Simple image search engine
